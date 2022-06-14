@@ -1,24 +1,11 @@
-# README
+# USERS APPLICATION
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An application that recieve a collection of objects from an external API and handled using Ruby and Rails.
 
-Things you may want to cover:
+## Reason:
 
-* Ruby version
+My main reason why I'm creating this application is because I want accept data from an external API and treat that data the same way Ruby on Rails data from a database using the most popular Ruby gem ActiveRecord. So the application with behave ActiveRecord-ish with external data.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Model
+- Callbacks
+- Pagination
